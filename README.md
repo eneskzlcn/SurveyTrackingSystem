@@ -3,6 +3,14 @@ Class Diagram
 ![](https://eneskzlcn.github.io/SurveyTrackingSystem/classDiagram.svg)
 
 
-Salt Shaker On Kitchen Table  
+Activity Diagram  
+
+![](https://eneskzlcn.github.io/SurveyTrackingSystem/activityDiagram.svg)
+
+
+Use Case Diagram
+
+![](https://eneskzlcn.github.io/SurveyTrackingSystem/useCaseDiagram.svg)
+
 
 
